@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Secondry-school ",
+    "SchoolName": "SRVM high School jath ",
+    "passoutyear": "2017"
+  },
+  {
+    "title": "Higher-secondry-school",
+    "CollegeName": "YT college jath ",
+    "passoutyear": "2019"
+  },
+  {
+    "title": "Graduation-'BCA'",
+    "CollegeName": "sangola mahavidhaly sangola",
+    "clglocation": "sangola dist-solhapur",
+    "passoutyear": "2022"
+  },
+  {
+    "title": " PostGraduation-'MCA'",
+    "CollegeName": "Dr. J. J. Magdum College of Engineering",
+    "clglocation": "jaysingpur dist-kolhapur",
+    "passoutyear": "2024"
+  }
+]
